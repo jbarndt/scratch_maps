@@ -137,7 +137,7 @@
       loc: ['longitude', 'latitude', 'altitude', 'velocity'],
       measurements: ['kilometers', 'miles']
     },
-    url: 'http://khanning.github.io/scratch-isstracker-extension'
+    url: 'https://raw.githubusercontent.com/jbarndt/scratch_maps/master/js/maps.js'
   };
 
   ScratchExtensions.register('ISS Tracker', descriptor, ext);
